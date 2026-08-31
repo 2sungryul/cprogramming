@@ -12,7 +12,6 @@ printf("Hello world!!\n");
 ```
 - 화면에 hello world!를 출력하라, printf는 문자열을 화면에 출력해주는 함수
 ```
-```
 return 0;
 ```
 - 0을 반환하고 메인함수 정상 종료
